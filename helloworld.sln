@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "helloworld", "helloworld\helloworld.jsproj", "{76CD2F57-6E0A-4CFC-99F6-045C973ED779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|ARM.ActiveCfg = Debug|ARM
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|ARM.Build.0 = Debug|ARM
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|ARM.Deploy.0 = Debug|ARM
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|ARM64.Build.0 = Debug|ARM64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|x64.ActiveCfg = Debug|x64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|x64.Build.0 = Debug|x64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|x64.Deploy.0 = Debug|x64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|x86.ActiveCfg = Debug|x86
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|x86.Build.0 = Debug|x86
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Debug|x86.Deploy.0 = Debug|x86
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|ARM.ActiveCfg = Release|ARM
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|ARM.Build.0 = Release|ARM
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|ARM.Deploy.0 = Release|ARM
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|ARM64.ActiveCfg = Release|ARM64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|ARM64.Build.0 = Release|ARM64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|ARM64.Deploy.0 = Release|ARM64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|x64.ActiveCfg = Release|x64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|x64.Build.0 = Release|x64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|x64.Deploy.0 = Release|x64
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|x86.ActiveCfg = Release|x86
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|x86.Build.0 = Release|x86
+		{76CD2F57-6E0A-4CFC-99F6-045C973ED779}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B5CBABD-B96B-4BCC-9A0D-96973195DAAA}
+	EndGlobalSection
+EndGlobal
